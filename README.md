@@ -14,6 +14,4 @@ Linux security auditing tool, based on the CIS guidelines
 I'm really sorry for the inconveniece. Maintaining such a large project requires a lot of time investment,
 which unfortunately I'm not able to commit to. 
 
-For enquiries related to this, feel free to email me at:
-
-ak.plus.gold@gmail.com
+For enquiries related to this, feel free to email me at:  ak.plus.gold@gmail.com
