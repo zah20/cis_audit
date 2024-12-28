@@ -1,7 +1,8 @@
 
+
 ![logo](logo.png)
 
-Linux security auditing tool, based on the CIS guidelines
+</br>
 
 [Guide](https://docs.google.com/document/d/1QxvkZuOQgwzyXdA9Nb6aITuvz7C9jZZgF5fZL_271ow/edit?usp=sharing)
 
