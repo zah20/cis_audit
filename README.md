@@ -1,4 +1,5 @@
-## CIS Audit
+
+![logo](logo.png)
 
 Linux security auditing tool, based on the CIS guidelines
 
