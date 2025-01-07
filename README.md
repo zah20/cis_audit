@@ -4,7 +4,7 @@
 
 </br>
 
-[Guide](https://docs.google.com/document/d/1QxvkZuOQgwzyXdA9Nb6aITuvz7C9jZZgF5fZL_271ow/edit?usp=sharing)
+[Guide](https://drive.google.com/file/d/10VYghc5BDv0wGfAoEiy-wIdSyUqkWfmV/)
 
 [Demo](https://www.dropbox.com/scl/fi/rtc4mgs4a2avlx849x6od/cis_presentation_demo.mp4?rlkey=babrafdsn52vm5u206y2z09w2&dl=0)
 
