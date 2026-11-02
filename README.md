@@ -3,7 +3,7 @@
 ![logo](logo.png)
 
 </br>
-[Demo](https://www.dropbox.com/scl/fi/rtc4mgs4a2avlx849x6od/cis_presentation_demo.mp4?rlkey=babrafdsn52vm5u206y2z09w2&dl=0)
+Demo: (https://www.dropbox.com/scl/fi/rtc4mgs4a2avlx849x6od/cis_presentation_demo.mp4?rlkey=babrafdsn52vm5u206y2z09w2&dl=0)
 
 </br></br>
 ** This project has been discontinued ** 
